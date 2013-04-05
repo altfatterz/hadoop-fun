@@ -1,0 +1,1 @@
+java -jar target/hadoop-fun-1.0-SNAPSHOT-jar-with-dependencies.jar  ~/hadoop-work-dir/file1.txt ~/hadoop-work-dir/file2.txt output
